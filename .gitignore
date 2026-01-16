@@ -1,0 +1,4 @@
+node_modules/
+.env.keys
+spec/tmp/*
+.DS_Store
