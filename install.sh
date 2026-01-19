@@ -3,7 +3,7 @@
 set -e
 OS=""
 ARCH=""
-VERSION="0.1.0"
+VERSION="0.1.21"
 DIRECTORY="/usr/local/bin"
 REGISTRY_URL="https://registry.npmjs.org"
 INSTALL_SCRIPT_URL="https://vestauth.sh"
