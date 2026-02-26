@@ -3,7 +3,7 @@
 set -e
 OS=""
 ARCH=""
-VERSION="0.21.0"
+VERSION="0.21.1"
 DIRECTORY="/usr/local/bin"
 REGISTRY_URL="https://registry.npmjs.org"
 INSTALL_SCRIPT_URL="https://vestauth.sh"
@@ -19,7 +19,7 @@ FORCE=""
 #  |   ╚████╔╝ ███████╗███████║   ██║   ██║  ██║╚██████╔╝   ██║   ██║  ██║                           |
 #  |    ╚═══╝  ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝                           |
 #  |                                                                                                 |
-#  |  *auth for agents*–from the creator of [`dotenvx`](https://github.com/dotenvx/dotenvx).         |
+#  |  *web-bot-auth for agents*–from the creator of [`dotenvx`](https://github.com/dotenvx/dotenvx).         |
 #  |                                                                                                 |
 #  |  ## Install                                                                                     |
 #  |                                                                                                 |
@@ -61,7 +61,7 @@ FORCE=""
 usage() {
   echo "Usage: $0 [options] [command]"
   echo ""
-  echo "install vestauth – auth for agents"
+  echo "install vestauth – web-bot-auth for agents"
   echo ""
   echo "Options:"
   echo "  --os              override operating system (e.g., linux, darwin)"
