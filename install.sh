@@ -3,7 +3,7 @@
 set -e
 OS=""
 ARCH=""
-VERSION="0.21.1"
+VERSION="0.22.0"
 DIRECTORY="/usr/local/bin"
 REGISTRY_URL="https://registry.npmjs.org"
 INSTALL_SCRIPT_URL="https://vestauth.sh"
@@ -24,7 +24,7 @@ FORCE=""
 #  |  ## Install                                                                                     |
 #  |                                                                                                 |
 #  |  ```sh                                                                                          |
-#  |  curl -sfS https://vstauth.sh | sh                                                              |
+#  |  curl -sfS https://vestauth.sh | sh                                                             |
 #  |  ```                                                                                            |
 #  |                                                                                                 |
 #  |  or self-execute this file:                                                                     |
